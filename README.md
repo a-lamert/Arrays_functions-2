@@ -1,1 +1,4 @@
 # Arrays_functions-2
+Создайте пустой массив numbers. Добавьте в него числа 1, 2, 3 с использованием метода push(). Затем удалите последний элемент из массива с помощью метода pop(). Используйте оператор расширения (spread operator) для создания нового массива, который содержит числа из исходного массива, а также добавьте число 0 в начало этого нового массива. Добавьте случайное число от 99 до 999 в начало массива используя unshift(). Выведите результат в консоль.
+
+Create an empty array numbers.Add numbers 1,2,3 to it using the push() method.Then remove the last element from array using the pop() method.Use the spread operator to create a new array,and add the number 0 to the beginning of this new array. Add a random number between 99 and 999 to the beginning of the array using unshift().Print the result to console.
